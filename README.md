@@ -4,11 +4,11 @@
 [![npm](https://img.shields.io/npm/dw/react-date-range)](https://www.npmjs.com/package/react-date-range)
 [![sponsors](https://img.shields.io/github/sponsors/hypeserver)](https://github.com/sponsors/hypeserver)
 
+A date library agnostic React component for choosing dates and date ranges. Uses [date-fns](http://date-fns.org/) for date operations.
+
 # FORKED
 
 Forked due to issue with not being able to set focused date to end date, and package not curretly maintained.
-
-A date library agnostic React component for choosing dates and date ranges. Uses [date-fns](http://date-fns.org/) for date operations.
 
 # Notice ⚠️
 This project is currently unmaintained because the original maintainers are busy with other things. It should be pretty stable in it's current state but we won't be updating it in the foreseeable future. **If you are willing to maintain it, please fork and open a pr adding your fork's link to this readme.**
